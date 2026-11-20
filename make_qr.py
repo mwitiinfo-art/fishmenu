@@ -1,7 +1,7 @@
 """Make a printable QR code for your menu link.
 
 Setup (once):   pip install "qrcode[pil]"
-Run:            python make_qr.py https://YOUR-NAME.github.io/fish-menu/
+Run:            python make_qr.py https://mwitiinfo-art.github.io/fish-menu/
 Creates:        menu-qr.png (for printing / sharing) and menu-qr.svg (sharp at any size)
 """
 import sys
